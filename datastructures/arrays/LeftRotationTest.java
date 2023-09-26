@@ -4,10 +4,6 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Created by nikoo28 on 9/2/20 12:17 AM
- */
-
 class LeftRotationTest {
 
   LeftRotation leftRotation = new LeftRotation();
