@@ -3,10 +3,6 @@ package hackerrank.datastructures.linkedlists;
 import util.ListNode;
 import org.junit.jupiter.api.Test;
 
-/**
- * Created by nikoo28 on 3/21/21 12:29 AM
- */
-
 class PrintInReverseTest {
 
   private final PrintInReverse printInReverse;
