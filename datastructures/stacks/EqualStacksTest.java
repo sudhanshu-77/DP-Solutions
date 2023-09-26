@@ -4,10 +4,6 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Created by nikoo28 on 9/13/20 8:40 PM
- */
-
 class EqualStacksTest {
 
   EqualStacks equalStacks = new EqualStacks();
