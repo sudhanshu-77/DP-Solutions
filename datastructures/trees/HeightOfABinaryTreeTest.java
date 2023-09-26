@@ -5,10 +5,6 @@ import util.TreeNode;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Created by nikoo28 on 11/19/21 8:52 PM
- */
-
 class HeightOfABinaryTreeTest {
 
   private final HeightOfABinaryTree heightOfABinaryTree;
