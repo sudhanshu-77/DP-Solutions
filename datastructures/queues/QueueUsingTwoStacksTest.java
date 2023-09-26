@@ -7,10 +7,6 @@ import java.util.Queue;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Created by nikoo28 on 12/26/20 6:02 PM
- */
-
 class QueueUsingTwoStacksTest {
 
   @Test
