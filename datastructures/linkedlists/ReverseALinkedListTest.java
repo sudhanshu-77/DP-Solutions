@@ -5,10 +5,6 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Created by nikoo28 on 3/21/21 12:02 AM
- */
-
 class ReverseALinkedListTest {
 
   private final ReverseALinkedList reverseALinkedList;
