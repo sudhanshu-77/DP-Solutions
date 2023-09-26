@@ -5,9 +5,6 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Created by nikoo28 on 3/28/21 1:15 AM
- */
 
 class CycleDetectionTest {
 
